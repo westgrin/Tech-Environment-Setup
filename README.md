@@ -57,7 +57,7 @@ All steps were performed on Windows 11.
 ### 3. Install VirtualBox
 **Purpose**: Virtualization software to run Ubuntu.
 
-1. Download VirtualBox 7.1.4 from [virtualbox.org](https://www.virtualbox.org).
+1. Download VirtualBox 7.1.8 from [virtualbox.org](https://www.virtualbox.org).
 2. Run the installer as Administrator.
 3. **Issue Encountered**: Installer required Microsoft Visual C++ 2019 Redistributable.
  - **Screenshot**: [VirtualBox Error](./img/3.%20Virtual%20Box%20error.png)
